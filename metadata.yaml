@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44
     wikipedia: http://en.wikipedia.org/wiki/René_Descartes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25830#A-Discourse-of-a-Method-for-the-Well-Guiding-of-Reasonand-the-Discovery-of-Truth-in-the-Scien_
 gutenberg_issued: '2008-06-18'
 gutenberg_type: Text
 identifiers:
