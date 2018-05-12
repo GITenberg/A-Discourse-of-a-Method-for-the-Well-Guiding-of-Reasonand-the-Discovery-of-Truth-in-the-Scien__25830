@@ -1,0 +1,31 @@
+_repo: A-Discourse-of-a-Method-for-the-Well-Guiding-of-Reasonand-the-Discovery-of-Truth-in-the-Scien__25830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: ''
+gutenberg_issued: '2008-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodology'
+- !lcsh 'Science -- Methodology'
+- !lcc 'B'
+title: 'A Discourse of a Method for the Well Guiding of Reason
+
+  and the Discovery of Truth in the Sciences'
+url: http://www.gutenberg.org/ebooks/25830
